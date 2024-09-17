@@ -5,4 +5,5 @@ class AppColors {
   static var color2 = Colors.white54;
   static var color3 = Colors.black;
   static var color4 = const Color(0xffcb6969);
+  static var color5 = Color(0xffD9D9D9);
 }
